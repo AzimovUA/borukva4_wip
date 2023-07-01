@@ -1,0 +1,13 @@
+{"overrides":
+[{"model":"custom/ui/arrow_left","predicate":{"custom_model_data":8005}},
+{"model":"custom/ui/arrow_next","predicate":{"custom_model_data":8006}},
+{"model":"custom/ui/next_button","predicate":{"custom_model_data":8007}},
+{"model":"custom/ui/next_button_dim","predicate":{"custom_model_data":8008}},
+{"model":"custom/ui/back_button","predicate":{"custom_model_data":8009}},
+{"model":"custom/ui/back_button_dim","predicate":{"custom_model_data":8010}},
+{"model":"custom/ui/banned_players_on","predicate":{"custom_model_data":8011}},
+{"model":"custom/ui/empty_button","predicate":{"custom_model_data":8012}},
+{"model":"custom/ui/filter_button","predicate":{"custom_model_data":8013}},
+{"model":"custom/ui/filter_button_2","predicate":{"custom_model_data":8014}},
+{"model":"custom/ui/closed_icon","predicate":{"custom_model_data":8200}},
+{"model":"item/paper","predicate":{"custom_model_data":12000}}],"parent":"item/generated","textures":{"layer0":"item/paper"}}
