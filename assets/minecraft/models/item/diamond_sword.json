@@ -58,6 +58,8 @@
 {"model":"custom/swords/sets/legendary_gear/legendaty_sword","predicate":{"custom_model_data":502}},
 {"model":"custom/swords/special/thought_sword","predicate":{"custom_model_data":1000}},
 {"model":"custom/swords/special/nolifer_katana","predicate":{"custom_model_data":1001}},
+{"model":"custom/swords/special/egypt_staff","predicate":{"custom_model_data":1002}},
+{"model":"custom/swords/special/khopeh","predicate":{"custom_model_data":1003}},
 {"model":"custom/ui/closed_icon","predicate":{"custom_model_data":11999}},
 {"model":"item/diamond_sword","predicate":{"custom_model_data":12000}}
 ],
