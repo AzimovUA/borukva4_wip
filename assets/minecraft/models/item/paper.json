@@ -22,6 +22,12 @@
 {"model":"custom/hats/free/blacksun","predicate":{"custom_model_data":8110}},
 {"model":"custom/hats/free/zakarpattya_1","predicate":{"custom_model_data":8111}},
 {"model":"custom/hats/free/zakarpattya_2","predicate":{"custom_model_data":8112}},
+{"model":"custom/hats/free/glass","predicate":{"custom_model_data":8113}},
+{"model":"custom/hats/free/vusa","predicate":{"custom_model_data":8114}},
+{"model":"custom/hats/free/mushroomcap_red","predicate":{"custom_model_data":8115}},
+{"model":"custom/hats/free/bunny_ears","predicate":{"custom_model_data":8116}},
+{"model":"custom/hats/free/bunny_ears2","predicate":{"custom_model_data":8117}},
+{"model":"custom/hats/free/cat_ears","predicate":{"custom_model_data":8118}},
 {"model":"custom/hats/special/pharaoh_hat","predicate":{"custom_model_data":9000}},
 {"model":"custom/ui/closed_icon","predicate":{"custom_model_data":10000}},
 {"model":"item/paper","predicate":{"custom_model_data":12000}}],"parent":"item/generated","textures":{"layer0":"item/paper"}}
