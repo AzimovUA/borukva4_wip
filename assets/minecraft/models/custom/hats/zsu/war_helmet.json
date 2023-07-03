@@ -2,8 +2,8 @@
 	"credit": "Made by daboorlie",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./war_helmet",
-		"particle": "./war_helmet"
+		"0": "custom/hats/war_helmet",
+		"particle": "custom/hats/war_helmet"
 	},
 	"elements": [
 		{
