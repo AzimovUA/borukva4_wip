@@ -2,8 +2,8 @@
 	"credit": "Made by daboorlie",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "./hatsune",
-		"particle": "./hatsune"
+		"0": "custom/hats/hatsune",
+		"particle": "custom/hats/hatsune"
 	},
 	"elements": [
 		{
