@@ -1,0 +1,37 @@
+{
+	"credit": "Did JulluHateYou",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "custom/hats/painter_hat"
+	},
+	"elements": [
+		{
+			"from": [5.36612, 8.74175, 8],
+			"to": [6.36612, 12.74175, 8],
+			"rotation": {"angle": 45, "axis": "z", "origin": [5.86612, 10.74175, 8]},
+			"faces": {
+				"north": {"uv": [5, 6, 5.5, 8], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [5.5, 6, 6, 8], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"from": [3.76943, 6.71093, 3],
+			"to": [13.76943, 9.71093, 13],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8.26943, 5.21093, 8]},
+			"faces": {
+				"north": {"uv": [5, 0, 10, 1.5], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [5, 1.5, 10, 3], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [5, 3, 10, 4.5], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [5, 4.5, 10, 6], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [5, 5, 0, 0], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [5, 5, 0, 10], "texture": "#1", "tintindex": 0}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 6.5, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	}
+}
