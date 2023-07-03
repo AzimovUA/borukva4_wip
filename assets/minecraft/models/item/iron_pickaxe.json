@@ -6,4 +6,4 @@
 {"model":"custom/ui/closed_icon","predicate":{"custom_model_data":11999}},
 {"model":"item/iron_pickaxe","predicate":{"custom_model_data":12000}}
 ],
-"parent":"item/generated","textures":{"layer0":"item/iron_pickaxe"}}
+"parent":"item/handheld","textures":{"layer0":"item/iron_pickaxe"}}

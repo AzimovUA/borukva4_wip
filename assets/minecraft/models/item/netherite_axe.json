@@ -1,7 +1,7 @@
 {"overrides":
 [
 {"model":"custom/axes/loot/deep_dark_axe","predicate":{"custom_model_data":300}},
-{"model":"custom/ui/closed_icon","predicate":{"custom_model_data":0}},
+{"model":"custom/ui/closed_icon","predicate":{"custom_model_data":11999}},
 {"model":"item/netherite_axe","predicate":{"custom_model_data":12000}}
 ],
-"parent":"item/generated","textures":{"layer0":"item/netherite_axe"}}
+"parent":"item/handheld","textures":{"layer0":"item/netherite_axe"}}
