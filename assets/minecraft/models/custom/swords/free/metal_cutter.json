@@ -281,7 +281,7 @@
 		},
 		"gui": {
 			"rotation": [0, 0, -44],
-			"translation": [-58.5, 23, 0]
+			"translation": [3.25, -5.5, 0]
 		},
 		"fixed": {
 			"translation": [3.5, 0, 0]

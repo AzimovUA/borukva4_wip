@@ -2,6 +2,6 @@
   "credit": "Made by Elvir_G",
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "totem_ankh"
+    "layer0": "custom/totems/totem_ankh"
   }
 }

@@ -1,6 +1,9 @@
 {"overrides":
 [
+{"model":"custom/axes/free/floral_axe","predicate":{"custom_model_data":1}},
+{"model":"custom/axes/free/summer_axe","predicate":{"custom_model_data":2}},
 {"model":"custom/axes/loot/deep_dark_axe","predicate":{"custom_model_data":300}},
+{"model":"custom/axes/loot/legendary_axe","predicate":{"custom_model_data":301}},
 {"model":"custom/ui/closed_icon","predicate":{"custom_model_data":11999}},
 {"model":"item/netherite_axe","predicate":{"custom_model_data":12000}}
 ],

@@ -1,7 +1,0 @@
-{
-  "credit": "Made by JulluHateYou",
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "floral_shovel"
-  }
-}

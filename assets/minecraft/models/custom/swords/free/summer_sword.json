@@ -2,6 +2,6 @@
   "credit": "Made by JulluHateYou",
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "floral_pickaxe"
+    "layer0": "custom/swords/summer_sword"
   }
 }

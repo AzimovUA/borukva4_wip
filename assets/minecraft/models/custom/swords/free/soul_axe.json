@@ -111,9 +111,9 @@
 			"from": [-2, 17.25, 1],
 			"to": [8, 27.25, 1],
 			"faces": {
-				"north": {"uv": [0.5, 0.5, 6.5, 6.475], "texture": "#3"},
+				"north": {"uv": [0.5, 0.5, 6.5, 6.475], "texture": "#particle"},
 				"east": {"uv": [0, 0, 0, 6.4], "texture": "#3"},
-				"south": {"uv": [0.5, 7.4, 6.5, 13.5], "texture": "#3"},
+				"south": {"uv": [0.5, 7.4, 6.5, 13.5], "texture": "#particle"},
 				"west": {"uv": [0, 0, 0, 6.4], "texture": "#3"},
 				"up": {"uv": [4, 0, 0, 0], "texture": "#3"},
 				"down": {"uv": [4, 0, 0, 0], "texture": "#3"}
@@ -161,12 +161,14 @@
 			"name": "group",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5, 6, 7]
 		},
 		{
 			"name": "анімка",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [8]
 		}
 	]

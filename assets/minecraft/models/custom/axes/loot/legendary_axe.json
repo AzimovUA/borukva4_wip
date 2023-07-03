@@ -2,6 +2,6 @@
   "credit": "Made by JulluHateYou",
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "legendary_pickaxe"
+    "layer0": "custom/axes/legendary_axe"
   }
 }

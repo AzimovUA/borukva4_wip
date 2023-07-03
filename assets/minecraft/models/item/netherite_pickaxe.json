@@ -1,7 +1,9 @@
 {"overrides":
 [
 {"model":"custom/pickaxes/free/summer_pickaxe","predicate":{"custom_model_data":1}},
+{"model":"custom/pickaxes/free/floral_pickaxe","predicate":{"custom_model_data":2}},
 {"model":"custom/pickaxes/patreon/drill","predicate":{"custom_model_data":100}},
+{"model":"custom/pickaxes/patreon/legendary_pickaxe","predicate":{"custom_model_data":101}},
 {"model":"custom/pickaxes/loot/deep_dark_pickaxe","predicate":{"custom_model_data":300}},
 {"model":"custom/ui/closed_icon","predicate":{"custom_model_data":11999}},
 {"model":"item/netherite_pickaxe","predicate":{"custom_model_data":12000}}
