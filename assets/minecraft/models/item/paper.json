@@ -41,11 +41,13 @@
 {"model":"custom/hats/patreon/pitsa_hat","predicate":{"custom_model_data":8510}},
 {"model":"custom/hats/patreon/plague_cleric","predicate":{"custom_model_data":8511}},
 {"model":"custom/hats/patreon/plague_doctor","predicate":{"custom_model_data":8512}},
+{"model":"custom/hats/patreon/hatsune","predicate":{"custom_model_data":8513}},
 {"model":"custom/hats/special/pharaoh_hat","predicate":{"custom_model_data":9000}},
 {"model":"custom/hats/special/mini_oldgod","predicate":{"custom_model_data":9001}},
 {"model":"custom/hats/zsu/nvg","predicate":{"custom_model_data":9100}},
 {"model":"custom/hats/zsu/otaman","predicate":{"custom_model_data":9101}},
 {"model":"custom/hats/zsu/otaman_lulka","predicate":{"custom_model_data":9102}},
 {"model":"custom/hats/zsu/lulka","predicate":{"custom_model_data":9103}},
+{"model":"custom/hats/zsu/war_helmet","predicate":{"custom_model_data":9104}},
 {"model":"custom/ui/closed_icon","predicate":{"custom_model_data":10000}},
 {"model":"item/paper","predicate":{"custom_model_data":12000}}],"parent":"item/generated","textures":{"layer0":"item/paper"}}
