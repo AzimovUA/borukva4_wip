@@ -449,47 +449,83 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 1, -3.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 1, -3.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-160.98, -24.2, 179.67],
+			"translation": [1.25, 0.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-161.96, 20.55, 179.94],
+			"translation": [1.25, 0.25, 0]
+		},
+		"ground": {
+			"rotation": [-10.92, 0.13, -1.33],
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"rotation": [-127.96, 43.98, 118.46],
+			"translation": [-1, 0.75, 0]
+		},
+		"fixed": {
+			"rotation": [-91.24, -53.23, -91.01]
+		}
+	},
 	"groups": [
 		{
 			"name": "muzzle",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5, 6]
 		},
 		{
 			"name": "body",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
 		},
 		{
 			"name": "stock",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [17, 18, 19, 20]
 		},
 		{
 			"name": "handle",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [21, 22, 23, 24]
 		},
 		{
 			"name": "mag",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [25]
 		},
 		{
 			"name": "scope",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [26, 27, 28, 29, 30, 31]
 		},
 		{
 			"name": "penis",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [32, 33]
 		}
 	]
