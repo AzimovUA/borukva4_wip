@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"6": "custom/swords/katana_sword"
+		"6": "custom/swords/katana_sword",
 		"particle": "custom/swords/katana_sword"
 	},
 	"elements": [

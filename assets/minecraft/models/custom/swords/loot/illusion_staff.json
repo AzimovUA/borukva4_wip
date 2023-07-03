@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "custom/swords/illusion_staff"
+		"1": "custom/swords/illusion_staff",
 		"particle": "custom/swords/illusion_staff"
 	},
 	"elements": [

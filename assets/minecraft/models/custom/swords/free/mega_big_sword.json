@@ -2,7 +2,7 @@
 	"credit": "Made by Elvir_G",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "custom/swords/mega_big_sword"
+		"1": "custom/swords/mega_big_sword",
 		"particle": "custom/swords/mega_big_sword"
 	},
 	"elements": [
