@@ -162,5 +162,36 @@
 				"down": {"uv": [6.625, 4, 5.625, 4.25], "rotation": 90, "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [1.25, 6.75, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-1, 6.75, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-10, 0, 0],
+			"translation": [2.25, 1.5, 0],
+			"scale": [0.64, 0.66, 0.65]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-10, 0, 0],
+			"translation": [2, 1.5, 0],
+			"scale": [0.64, 0.66, 0.65]
+		},
+		"ground": {
+			"rotation": [-44.26, -9.71, 23.6],
+			"scale": [0.63, 0.6, 0.59]
+		},
+		"gui": {
+			"rotation": [-49.73, -33.76, -64.75],
+			"translation": [0, -1.5, 0],
+			"scale": [0.55, 0.52, 0.54]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0, -1.75]
+		}
+	}
 }

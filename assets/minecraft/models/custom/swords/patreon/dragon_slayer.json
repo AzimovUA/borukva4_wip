@@ -112,8 +112,7 @@
 		},
 		"ground": {
 			"rotation": [45, 0, 0],
-			"translation": [0, 10, 0.75],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [0, 10, 0.75]
 		},
 		"gui": {
 			"rotation": [-90, -45, -90],
@@ -136,6 +135,7 @@
 			"name": "group",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5, 6]
 		}
 	]

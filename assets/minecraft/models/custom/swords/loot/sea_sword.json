@@ -139,6 +139,7 @@
 			"name": "sword",
 			"origin": [8, 4, 7],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5, 6]
 		}
 	]

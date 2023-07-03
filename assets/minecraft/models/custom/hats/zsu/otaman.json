@@ -6,7 +6,7 @@
 		"4": "custom/hats/otaman1",
 		"5": "custom/hats/otaman2",
 		"6": "custom/hats/button",
-		"7": "custom/hats/feather",
+		"7": "custom/hats/otaman_feather",
 		"particle": "custom/hats/otaman_hat"
 	},
 	"elements": [
@@ -312,7 +312,7 @@
 		},
 		"gui": {
 			"rotation": [110.77, -0.05, -177.71],
-			"translation": [-0.75, 0.75, 0],
+			"translation": [1, -1.5, 0],
 			"scale": [0.4, 0.38, 0.38]
 		},
 		"head": {
@@ -331,6 +331,7 @@
 			"name": "images3",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 		},
 		16,

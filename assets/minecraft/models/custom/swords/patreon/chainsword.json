@@ -286,8 +286,9 @@
 			"translation": [7, 11, 0]
 		},
 		"ground": {
-			"translation": [-5, 11.5, -6],
-			"scale": [1.5, 1.5, 1.5]
+			"rotation": [29.29, -1.56, -6.01],
+			"translation": [0, 8, 0],
+			"scale": [0.67, 0.66, 0.66]
 		},
 		"gui": {
 			"rotation": [90, -45, 90],
@@ -309,35 +310,41 @@
 			"name": "NEW",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": [
 				{
 					"name": "Body",
 					"origin": [11.25, 2, 1],
 					"color": 0,
+					"nbt": "{}",
 					"children": [0, 1, 2, 3]
 				},
 				{
 					"name": "Handle",
 					"origin": [9, 0, 22],
 					"color": 0,
+					"nbt": "{}",
 					"children": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 				},
 				{
 					"name": "Teeth",
 					"origin": [0, 0, 0],
 					"color": 0,
+					"nbt": "{}",
 					"children": [
 						16,
 						{
 							"name": "group",
 							"origin": [0, 0, 0],
 							"color": 0,
+							"nbt": "{}",
 							"children": [17, 18]
 						},
 						{
 							"name": "group",
 							"origin": [0, 0, 0],
 							"color": 0,
+							"nbt": "{}",
 							"children": [19, 20]
 						}
 					]

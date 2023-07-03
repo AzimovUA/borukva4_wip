@@ -204,8 +204,9 @@
 			"scale": [1.11, 1, 1]
 		},
 		"firstperson_lefthand": {
-			"rotation": [9, -108, 0],
-			"translation": [-0.25, -6.25, 0]
+			"rotation": [-18, -90, 0],
+			"translation": [1.25, -4.75, 3.5],
+			"scale": [1.11, 1, 1]
 		},
 		"gui": {
 			"rotation": [8, 0, 27],
@@ -236,6 +237,7 @@
 			"name": "image",
 			"origin": [8, 8, 8],
 			"color": 0,
+			"nbt": "{}",
 			"children": []
 		}
 	]
