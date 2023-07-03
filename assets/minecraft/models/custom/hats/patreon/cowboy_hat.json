@@ -2,9 +2,9 @@
 	"credit": "Did JulluHateYou",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./cowboy_hat",
-		"1": "./colored_cowboy_hat",
-		"particle": "./cowboy_hat"
+		"0": "custom/hats/cowboy_hat",
+		"1": "custom/hats/colored_cowboy_hat",
+		"particle": "custom/hats/cowboy_hat"
 	},
 	"elements": [
 		{
