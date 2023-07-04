@@ -3,9 +3,10 @@
 {"model":"custom/ui/paint_button","predicate":{"custom_model_data":8005}},
 {"model":"custom/hats/free/digital_glasses","predicate":{"custom_model_data":8100}},
 {"model":"custom/hats/patreon/pirate_hat_color","predicate":{"custom_model_data":8500}},
-{"model":"custom/hats/patreon/pirate_triangle","predicate":{"custom_model_data":8501}},
-{"model":"custom/hats/patreon/painter_hat","predicate":{"custom_model_data":8502}},
-{"model":"custom/hats/patreon/farmer_hat","predicate":{"custom_model_data":8503}},
-{"model":"custom/hats/patreon/sharfik","predicate":{"custom_model_data":8504}},
+{"model":"custom/hats/patreon/cowboy_hat","predicate":{"custom_model_data":8501}},
+{"model":"custom/hats/patreon/pirate_triangle","predicate":{"custom_model_data":8502}},
+{"model":"custom/hats/patreon/painter_hat","predicate":{"custom_model_data":8503}},
+{"model":"custom/hats/patreon/farmer_hat","predicate":{"custom_model_data":8504}},
+{"model":"custom/hats/patreon/sharfik","predicate":{"custom_model_data":8505}},
 {"model":"item/paper","predicate":{"custom_model_data":12000}}
 ],"parent":"item/handheld_rod","textures":{"layer0":"item/leather_horse_armor"}}
