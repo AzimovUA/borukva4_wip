@@ -1,6 +1,6 @@
 {
     "credit": "Made by Äâà Ğóáë³",
-    "parent": "minecraft:item/handheld",
+    "parent": "minecraft:item/generated",
     "textures": {
         "layer0": "custom/discs/306"
     }
