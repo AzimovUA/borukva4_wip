@@ -1,0 +1,5 @@
+{"overrides":
+[
+{"model":"custom/discs/301p","predicate":{"custom_model_data":301}}
+],
+"parent":"item/generated","textures":{"layer0":"item/music_disc_pigstep"}}
